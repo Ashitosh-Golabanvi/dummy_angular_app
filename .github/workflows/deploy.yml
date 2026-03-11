@@ -24,3 +24,4 @@ jobs:
             cd /home/azureuser/temp/dummy_angular_app
             chmod +x deploy.sh
             ./deploy.sh
+            # 
